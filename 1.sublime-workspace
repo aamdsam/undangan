@@ -1,0 +1,1029 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t_",
+				"t_logo_unismuh"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tg",
+				"tgl2"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"da",
+				"date1"
+			],
+			[
+				"__",
+				"__convert_date"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"sq",
+				"sql2"
+			],
+			[
+				"nm",
+				"nm_kegiatan"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"t",
+				"tgl"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"date",
+				"date5"
+			],
+			[
+				"dat",
+				"date3"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"tgl",
+				"tgl_indo"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"span",
+				"span3"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"kd",
+				"kd_pembimbing"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"dele",
+				"DELETE"
+			],
+			[
+				"div",
+				"div_kegiatan"
+			],
+			[
+				"Dok",
+				"dokter_pembimbing"
+			],
+			[
+				"v",
+				"v_nm_singkat"
+			],
+			[
+				"b",
+				"bln_sekarang-31"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"sql",
+				"sql"
+			],
+			[
+				"kd_",
+				"kd_pembimbing"
+			],
+			[
+				"PHP",
+				"php"
+			],
+			[
+				"q",
+				"query3"
+			],
+			[
+				"que",
+				"query1"
+			],
+			[
+				"kd_k",
+				"kd_kegiatan"
+			],
+			[
+				"k",
+				"ket"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"grid",
+				"grid_10"
+			],
+			[
+				"jm",
+				"jml_baris"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"map",
+				"map_markers"
+			],
+			[
+				"jml",
+				"jml_baris"
+			],
+			[
+				"kelu",
+				"kelurahan"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"penyedia",
+				"penyedia_layanan"
+			],
+			[
+				"fu",
+				"fullpath"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"me",
+				"menu_ke"
+			],
+			[
+				"up",
+				"Update"
+			],
+			[
+				"ke",
+				"ket"
+			],
+			[
+				"no",
+				"no_urut"
+			],
+			[
+				"blo",
+				"blockName"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"tem",
+				"tempat_lahir"
+			],
+			[
+				"kd_ke",
+				"kd_kec"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"sh",
+				"sheet_akhir"
+			],
+			[
+				"she",
+				"sheet_akhir"
+			],
+			[
+				"shh",
+				"sheet_akhir"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"data",
+				"data_telepon"
+			],
+			[
+				"jml_d",
+				"jml_data_telepon"
+			],
+			[
+				"whe",
+				"where2"
+			],
+			[
+				"id",
+				"id_kab"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "badan/gaji_pembimbing.php",
+			"settings":
+			{
+				"buffer_size": 4846,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "badan/ctk_gaji_pembimbing.php",
+			"settings":
+			{
+				"buffer_size": 3362,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "badan/ctk_kartu_pembimbing.php",
+			"settings":
+			{
+				"buffer_size": 2730,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "badan/absen_kegiatan",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "badan/absen_kegiatan.php",
+			"settings":
+			{
+				"buffer_size": 18029,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xampp/htdocs/pelamonia/media.php",
+		"/F/xampp/htdocs/pelamonia/badan/kartu_pembimbing.php",
+		"/F/xampp/htdocs/pelamonia/badan/ctk_kartu_pembimbing.php",
+		"/F/xampp/htdocs/pelamonia/config/selisi_waktu.php",
+		"/F/xampp/htdocs/pelamonia/config/library.php",
+		"/F/xampp/htdocs/pelamonia/config/fungsi_indotgl.php",
+		"/F/xampp/htdocs/pelamonia/badan/absen_kegiatan.php",
+		"/F/xampp/htdocs/pelamonia/badan/editUser.php",
+		"/F/xampp/htdocs/pelamonia/badan/gaji_pembimbing.php",
+		"/F/xampp/htdocs/pelamonia/badan/ctk_gaji_pembimbing.php",
+		"/F/xampp/htdocs/pelamonia/badan/home.php",
+		"/F/xampp/htdocs/pelamonia/badan/addUser.php",
+		"/F/xampp/htdocs/pelamonia/badan/caleg.php",
+		"/F/xampp/htdocs/pelamonia/badan/data_telepon.php",
+		"/F/xampp/htdocs/pelamonia/badan/dokter_pembimbing.php",
+		"/F/xampp/htdocs/pelamonia/badan/manajemen_grup.php",
+		"/F/xampp/htdocs/pelamonia/badan/manajemen_level.php",
+		"/F/xampp/htdocs/pelamonia/badan/manajemen_user.php",
+		"/F/xampp/htdocs/pelamonia/badan/news_flash.php",
+		"/F/xampp/htdocs/pelamonia/badan/notifikasi.php",
+		"/F/xampp/htdocs/pelamonia/badan/pesan.php",
+		"/F/xampp/htdocs/pelamonia/badan/polling.php",
+		"/F/xampp/htdocs/pelamonia/badan/saksi.php",
+		"/F/xampp/htdocs/pelamonia/badan/sinkronisasi.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/addUser.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/create_widget.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/data_telepon.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/detail_sinkronisasi.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/dpt_lain.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/dpt_telepon.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/edit_widget.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/home.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/manajemen_grup.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/manajemen_level.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/manajemen_user.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/manajemen_widgets.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/news_flash.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/notifikasi.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/pesan.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/sinkronisasi.php",
+		"/F/xampp/htdocs/pelamonia/dpt/calendar.html",
+		"/F/xampp/htdocs/pelamonia/dpt/charts.html",
+		"/F/xampp/htdocs/pelamonia/dpt/dpt.sublime-workspace",
+		"/F/xampp/htdocs/pelamonia/dpt/forms.html",
+		"/F/xampp/htdocs/pelamonia/dpt/gallery.html",
+		"/F/xampp/htdocs/pelamonia/dpt/icons.html",
+		"/F/xampp/htdocs/pelamonia/dpt/tables.html",
+		"/F/xampp/htdocs/pelamonia/dpt/widgets.html",
+		"/F/xampp/htdocs/pelamonia/badan/proses.php",
+		"/F/xampp/htdocs/pelamonia/test.php",
+		"/C/Windows/SysWOW64/Macromed/Flash/FlashPlayerPlugin_12_0_0_44.exe",
+		"/F/xampp/htdocs/dpt/badan/home.php",
+		"/F/xampp/htdocs/pelamonia/badan/absen_kegiatan",
+		"/F/xampp/htdocs/dpt/badan/dpt_lain.php",
+		"/F/xampp/htdocs/satria/sa/bhp.php",
+		"/F/xampp/htdocs/satria/sa/addAgenda.php",
+		"/F/xampp/htdocs/pelamonia/badan/reports.php",
+		"/F/xampp/htdocs/pelamonia/badan/badan.php",
+		"/F/xampp/htdocs/pelamonia/index.php",
+		"/F/xampp/htdocs/pelamonia/cek_login.php",
+		"/F/xampp/htdocs/pelamonia/css/cetak.css",
+		"/C/Users/Aam_Dsam/Downloads/PDFCreator-1_7_2_setup.exe",
+		"/F/xampp/htdocs/satria/sa/admin.php",
+		"/F/xampp/htdocs/pelamonia/badan/admin.php",
+		"/E/Multimedia/videos/luar/Bourne/Bourne Supremacy/TheBourneSupremacy.srt",
+		"/F/xampp/htdocs/pelamonia/connect.php",
+		"/F/xampp/htdocs/pelamonia/library/formatUang.php",
+		"/F/xampp/htdocs/pelamonia/images/logo.png",
+		"/F/xampp/htdocs/pelamonia/config/class_paging2.php",
+		"/F/xampp/htdocs/dpt_lama/media.php",
+		"/F/xampp/htdocs/pelamonia/widgets/config.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/editUser.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/manajemen_gadget.php",
+		"/F/xampp/htdocs/pelamonia/dpt/badan/proses.php",
+		"/F/xampp/htdocs/pelamonia/dpt/cek_login.php",
+		"/F/xampp/htdocs/pelamonia/dpt/index.php",
+		"/F/xampp/htdocs/pelamonia/dpt/library/check_login.php",
+		"/F/xampp/htdocs/pelamonia/dpt/log_out.php",
+		"/F/xampp/htdocs/pelamonia/dpt/media.php",
+		"/F/xampp/htdocs/pelamonia/library/check_login.php",
+		"/F/xampp/htdocs/pelamonia/log_out.php",
+		"/F/xampp/htdocs/pelamonia/aam/apps/files_odfviewer/src/webodf/programs/touchui/sencha-touch.css",
+		"/F/xampp/htdocs/pelamonia/backup.sql",
+		"/F/xampp/htdocs/pelamonia/badan/manajemen_gadget.php",
+		"/F/xampp/htdocs/pelamonia/badan/manajemen_widgets.php",
+		"/F/xampp/htdocs/smspdam/contents/main.php",
+		"/F/xampp/htdocs/smspdam/header.php",
+		"/F/xampp/htdocs/inmyhand/media.php",
+		"/F/xampp/htdocs/smspdam/css/style.css",
+		"/F/xampp/htdocs/smspdam/contents/cari_laporan.php",
+		"/F/xampp/htdocs/data_pegawai/admin/p_pegawai.php",
+		"/F/xampp/htdocs/smspdam/contents/content.php",
+		"/F/xampp/htdocs/smspdam/contents/bottom_block.php",
+		"/F/xampp/htdocs/smspdam/contents/about.php",
+		"/F/xampp/htdocs/smspdam/contents/test.php",
+		"/F/xampp/htdocs/smspdam/index-4.html",
+		"/F/xampp/htdocs/smspdam/index-5.html",
+		"/F/xampp/htdocs/smspdam/index-3.html",
+		"/F/xampp/htdocs/smspdam/index-2.html",
+		"/F/xampp/htdocs/smspdam/index-1.html",
+		"/F/xampp/htdocs/data_pegawai/admin/filterpegawai.php",
+		"/F/xampp/htdocs/smspdam/config/koneksi.php",
+		"/F/xampp/htdocs/smspdam/themes/smsair/css/smsair-styles.css",
+		"/F/xampp/htdocs/smspdam/themes/smsair/css/screen.css",
+		"/F/xampp/htdocs/smsair/badan/main.php",
+		"/F/xampp/htdocs/smspdam/index.php",
+		"/F/xampp/htdocs/test/map/index.php",
+		"/F/xampp/htdocs/smsair/config/koneksi.php",
+		"/F/xampp/htdocs/smsair/badan/publik.php",
+		"/F/xampp/htdocs/smsair/header.php",
+		"/F/xampp/htdocs/smsair/footer.php",
+		"/F/xampp/htdocs/smsair/src/Leaflet.js",
+		"/F/xampp/htdocs/smsair/dist/leaflet.css",
+		"/F/xampp/htdocs/smsair/library/check_login.php",
+		"/F/xampp/htdocs/dpt/media.php",
+		"/C/Users/Aam_Dsam/Downloads/Compressed/Leaflet-master/Leaflet-master/index.php",
+		"/F/xampp/htdocs/smsair/index.php",
+		"/F/xampp/htdocs/smsair/badan/badan.php",
+		"/F/xampp/htdocs/inmyhand/badan/badan.php",
+		"/F/xampp/htdocs/satria/index.php",
+		"/C/Users/Aam_Dsam/Downloads/Compressed/Leaflet-master/Leaflet-master/README.md",
+		"/F/xampp/htdocs/smsair/themes/smsair/css/smsair-styles.css",
+		"/F/xampp/htdocs/smsair/themes/smsair/css/smsair-maps.css",
+		"/F/xampp/htdocs/homepage/edit_homepage.php",
+		"/F/xampp/htdocs/homepage/homepage.php",
+		"/F/xampp/htdocs/homepage/footer.php",
+		"/F/xampp/htdocs/homepage/music.html",
+		"/F/xampp/htdocs/homepage/video.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"F:\\xampp\\htdocs\\pelamonia\\badan",
+			"F:\\xampp\\htdocs\\pelamonia",
+			"F:\\xampp\\htdocs\\pelamonia\\badan",
+			"F:\\xampp\\htdocs\\pelamonia",
+			"F:\\xampp\\htdocs\\smspdam"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"edit",
+			"Gaji",
+			"tgl1",
+			"dateFormat: 'yy-mm-dd'",
+			"dateFormat: 'dd-mm-yy'",
+			"dateFormat: 'yy-mm-dd'",
+			"tgl5",
+			"grid-content overflow",
+			"chzn-select chosen_select",
+			"MM_openBrWindow",
+			"$.ajax",
+			"ui-datepicker-div",
+			"Pangkat",
+			"’",
+			"‘",
+			"_POST",
+			"setStylesheet",
+			"chooseStyle",
+			"\"",
+			"form_data",
+			"dokter_pembimbing",
+			"home",
+			"edit",
+			"Kabupaten",
+			"$_SESSION['menu']",
+			"pdt",
+			"\"",
+			"d1",
+			"About Us",
+			"index.html",
+			"Catatan meter awal. ****.*** akhir. ****.***",
+			"\"",
+			"timeline_chart",
+			">",
+			"</option>",
+			">",
+			"<option value=",
+			"\"",
+			"</option>",
+			"<option value=\"",
+			"sele",
+			"\"",
+			"main_map",
+			"id=\"map\"",
+			"\"",
+			"gambar",
+			"th",
+			"FK Unismuh",
+			"index",
+			"pdt",
+			"thumb1-*",
+			"Start",
+			"id=\"name1\"",
+			"Start",
+			"{ArrowUp}",
+			"{ArrowRight}",
+			"{ArrowDown}",
+			"{BackSpace}",
+			"{F5}",
+			"{RightMouse}",
+			"{LeftMouse}",
+			"http://rumah399.makassarcyber.com/",
+			"Publikasikan iklan anada secara gratis",
+			"Publish",
+			"ad",
+			"iklan",
+			"Publikasikan iklan",
+			"Publikasikan iklan anada secara gratis",
+			"anada",
+			"for free",
+			"Publish your ad for free",
+			"Publikasikan iklan",
+			"Publikasikan",
+			"Publikasikan iklan anada secara gratis",
+			"Publikasikan",
+			"Publikasikan iklan anada secara gratis",
+			"latest-ads",
+			"container",
+			"luxury villas",
+			"luxury",
+			"Price too long.",
+			"d2",
+			"sql2",
+			"$jml_dpt2",
+			"kd_kab=$_GET[kd_kab]&kd_kec=$_GET[kd_kec]&kd_kel=$_GET[kd_kel]&tps=$_GET[tps]",
+			"dpt_lain",
+			"$jml_data_telepon",
+			"filter2",
+			"$jml_data_telepon",
+			"$sql_dpt_lain",
+			"sql_dpt_lain",
+			"jml_dpt_lain",
+			"Jumlah Daftar Pemilih Tetap Sumber Lain",
+			"ntb",
+			"home",
+			"dpt",
+			"home",
+			"module=home",
+			"dpt",
+			"kembali",
+			"module=home",
+			"kembali",
+			"home",
+			"module=home",
+			"dpt",
+			"&tps=$_GET[tps]",
+			"kategori=$_GET[kategori]&cari=$_GET[cari]&",
+			"kategori=$_GET[kategori]&cari=$_GET[cari]",
+			"POST",
+			"&cari=$_GET[cari]",
+			"cari",
+			"kategori",
+			"kategori=$_GET[kategori]&cari=$_GET[cari]&",
+			"kd_",
+			"menu",
+			"TYPE=MyISAM"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dateFormat: 'dd-mm-yy'",
+			"grid-content",
+			"'",
+			"dokter_pembimbing",
+			"pelamonia",
+			"'",
+			"d2",
+			"index.php",
+			"'",
+			"td",
+			"home_page",
+			" ",
+			"  ",
+			"",
+			"nik=$_GET[nik]&nama=$_GET[nama]&no_telepon=$_GET[no_telepon]",
+			"dpt",
+			"sinkronisasi",
+			"dpt_lain",
+			"sinkronisasi",
+			"module=dpt_lain",
+			"dpt_lain",
+			"module=dpt_lain",
+			"dpt_lain",
+			"GET",
+			"",
+			"nm_",
+			"module",
+			"ENGINE=InnoDB"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "badan/gaji_pembimbing.php",
+					"settings":
+					{
+						"buffer_size": 4846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								613
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "badan/ctk_gaji_pembimbing.php",
+					"settings":
+					{
+						"buffer_size": 3362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								771
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "badan/ctk_kartu_pembimbing.php",
+					"settings":
+					{
+						"buffer_size": 2730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1757,
+								1757
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 620.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "badan/absen_kegiatan",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "badan/absen_kegiatan.php",
+					"settings":
+					{
+						"buffer_size": 18029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8312,
+								8312
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"abse",
+				"pelamonia/badan/absen_kegiatan.php"
+			],
+			[
+				"absen",
+				"pelamonia/badan/absen_kegiatan"
+			],
+			[
+				"ctk",
+				"pelamonia/badan/ctk_kartu_pembimbing.php"
+			],
+			[
+				"ct",
+				"pelamonia/badan/ctk_gaji_pembimbing.php"
+			],
+			[
+				"ga",
+				"pelamonia/badan/gaji_pembimbing.php"
+			],
+			[
+				"hom",
+				"pelamonia/badan/home.php"
+			],
+			[
+				"gaji",
+				"pelamonia/badan/gaji_pembimbing.php"
+			],
+			[
+				"kart",
+				"pelamonia/badan/kartu_pembimbing.php"
+			],
+			[
+				"med",
+				"pelamonia/media.php"
+			],
+			[
+				"medi",
+				"pelamonia/media.php"
+			],
+			[
+				"media",
+				"pelamonia/media.php"
+			],
+			[
+				"dok",
+				"pelamonia/badan/dokter_pembimbing.php"
+			],
+			[
+				"ce",
+				"pelamonia/cek_login.php"
+			],
+			[
+				"inde",
+				"pelamonia/index.php"
+			],
+			[
+				"badan",
+				"badan/badan.php"
+			],
+			[
+				"home",
+				"badan/home.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"sin",
+				"badan/sinkronisasi.php"
+			],
+			[
+				"edit",
+				"badan/editUser.php"
+			],
+			[
+				"clas",
+				"config/class_paging2.php"
+			],
+			[
+				"ko",
+				"config/koneksi.php"
+			],
+			[
+				"confi",
+				"widgets/config.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"car",
+				"contents/cari_laporan.php"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"conte",
+				"contents/content.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"con",
+				"contents/content.php"
+			],
+			[
+				"konek",
+				"config/koneksi.php"
+			],
+			[
+				"scree",
+				"themes/smsair/css/screen.css"
+			],
+			[
+				"mai",
+				"badan/main.php"
+			],
+			[
+				"leaflet.js",
+				"src/Leaflet.js"
+			],
+			[
+				"leaflet.css",
+				"dist/leaflet.css"
+			],
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"halam",
+				"halaman_admin.php"
+			],
+			[
+				"proses_impo",
+				"badan/impor/proses_impor_dpt.php"
+			],
+			[
+				"kon",
+				"config/koneksi.php"
+			],
+			[
+				"sik",
+				"badan/sinkronisasi.php"
+			],
+			[
+				"add",
+				"badan/addUser.php"
+			],
+			[
+				"cek",
+				"cek_login.php"
+			],
+			[
+				"dpt",
+				"badan/dpt_lain.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,71 @@
+#header { 
+	background: #51a550;
+	background: -moz-linear-gradient(top, #51a550 0%, #2c8035 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#51a550), color-stop(100%,#2c8035));
+	background: -webkit-linear-gradient(top, #51a550 0%,#2c8035 100%);
+	background: -o-linear-gradient(top, #51a550 0%,#2c8035 100%);
+	background: -ms-linear-gradient(top, #51a550 0%,#2c8035 100%);
+	background: linear-gradient(to bottom, #51a550 0%,#2c8035 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#51a550', endColorstr='#2c8035',GradientType=0 );
+	border-bottom:1px solid #1a6324;
+}
+.search input[type="text"], .search input[type="text"]:focus {
+	border:1px solid #1a6324;
+}
+.double-spacer {
+	border-left:1px solid #4e9a53;
+	border-right:1px solid #1a6324;
+}
+.profile-avatar img{
+	border:1px solid #1a6324;
+}
+.profile-username span {
+	color:#96df95;
+}
+.notice-new {
+	background: #fcc860;
+	background: -moz-linear-gradient(top, #fcc860 0%, #fcc860 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fcc860), color-stop(100%,#fe860a));
+	background: -webkit-linear-gradient(top, #fcc860 0%,#fe860a 100%);
+	background: -o-linear-gradient(top, #fcc860 0%,#fe860a 100%);
+	background: -ms-linear-gradient(top, #fcc860 0%,#fe860a 100%);
+	background: linear-gradient(to bottom, #fcc860 0%,#fe860a 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcc860', endColorstr='#fe860a',GradientType=0 );
+	color:#7d1011;
+}
+.head-button-link {
+	background-image:url(../../images/colors/green/icon_message.png);
+}
+.head-button-link.notification {
+	background-image:url(../../images/colors/green/icon_notification.png);
+}
+.head-button-link.config {
+	background-image:url(../../images/colors/green/icon_config.png);
+}
+.head-button-link.menu-hide {
+	background-image:url(../../images/colors/green/icon_menu.png);
+}
+#menu { 
+	background:#f9f9f9 url(../../images/bg_left_menu.png);
+}
+.main-menu li a{
+	border-bottom:1px solid #243235;
+}
+.main-menu li a:hover{
+	background:#293c43;
+}
+
+@media \0screen {
+.head-button-link {
+	background-image:url(../../images/ie/colors/green/icon_message.png);
+}
+.head-button-link.notification {
+	background-image:url(../../images/ie/colors/green/icon_notification.png);
+}
+.head-button-link.config {
+	background-image:url(../../images/ie/colors/green/icon_config.png);
+}
+.head-button-link.menu-hide {
+	background-image:url(../../images/ie/colors/green/icon_menu.png);
+}
+}

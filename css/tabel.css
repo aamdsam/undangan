@@ -1,0 +1,14 @@
+.tabel{
+	border:1px solid #666;
+}
+.tabel th{
+	border-bottom:1px solid #666;
+	border-right:1px solid #666;
+	background:#CCC;
+	color:#FFF;
+	text-align:center;
+}
+.tabel td{
+	border-bottom:1px solid #666;
+	border-right:1px solid #666;
+}
